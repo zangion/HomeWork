@@ -69,7 +69,7 @@ console.log(user);
 
 // Задание 9.2
 
-delete user[ `city of residence` ];
+delete user[`city of residence`];
 
 // Задание 9.3
 
