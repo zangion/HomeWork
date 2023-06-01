@@ -16,7 +16,7 @@ alert(jsCreator);
 // Задание 3
 
 let b = 10;
-let c = 2;
+let c = 2
 alert(b + c);
 alert(b - c);
 alert(b * c);
