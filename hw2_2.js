@@ -5,7 +5,7 @@ alert(a);
 
 // Задание 1
 
-const iphoneYear = 2007;
+const iphoneCreateYear = 2007;
 alert(iphoneYear);
 
 // Задание 2
